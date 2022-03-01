@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+article {
+  display: flex;
+  flex-wrap: wrap;
+}
+article div {
+  width: 15%;
+  margin: 5%;
+}
+article div h3 {
+  margin: 2%;
+}
+
+img {
+  width: 250px;
+}
+
+a {
+  background-color: orangered;
+  padding: 2%;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 5%;
+}
+
+#figure {
+  display: flex;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=main.css.map */
